@@ -17,8 +17,5 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="src/hibernate.cfg.xml"/>
-	<classpathentry kind="lib" path="src/profile.hbm.xml"/>
-	<classpathentry kind="lib" path="src/user.hbm.xml"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
